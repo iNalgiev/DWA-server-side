@@ -24,7 +24,8 @@ up to 5:46 'Prototypical Inheritance'
 
 ## Preparation 2: Q&A
 [Please post 2 questions, remarks, or discussion items
-regarding to the literature and video's for this session.](https://gist.github.com/theotheu/49fb04dff54b6c3e7d58)
+regarding to the literature and video's for this session.]
+(../../../issues/1)
 
 ## Submission Form
 Please use the [this form](https://docs.google.com/forms/d/1GeBr8ZQtcuU9VLZZAbHb3I_M5lj_6ghjIdpHWP3-I4w/viewform?usp=send_form)
@@ -154,7 +155,8 @@ up to 'More Control over Function Calls: call(), apply() and bind()
 up to 9:11 'prototypical inheritance'
 
 ## Preparation 2: Q&A
-[Please post 2 questions, remarks, or discussion items.](https://gist.github.com/theotheu/49fb04dff54b6c3e7d58)
+[Please post 2 questions, remarks, or discussion items.]
+(../../../issues/2)
 
 ## Submission Form
 Please use the [this form]
