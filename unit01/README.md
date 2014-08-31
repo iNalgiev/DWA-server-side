@@ -156,7 +156,7 @@ up to 9:11 'prototypical inheritance'
 
 ## Preparation 2: Q&A
 [Please post 2 questions, remarks, or discussion items.]
-(../../../issues/2)
+(../../../issues/3)
 
 ## Submission Form
 Please use the [this form]
