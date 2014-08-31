@@ -156,6 +156,11 @@ up to 9:11 'prototypical inheritance'
 ## Preparation 2: Q&A
 [Please post 2 questions, remarks, or discussion items.](https://gist.github.com/theotheu/49fb04dff54b6c3e7d58)
 
+## Submission Form
+Please use the [this form]
+(https://docs.google.com/forms/d/1O5t8-hIQpzQKtO8neDBH-FeTptQINSVsXkC5VWB3kQc/viewform?usp=send_form)
+to submit the URLs to the answers of preparation 3, 4, 5 and 6.
+
 ## Preparation 3: 'input to number array'
 De functie toNumberArray() stopt alle
 getallen die worden meegegeven op de commandline in een array en
@@ -238,6 +243,7 @@ F. Geef een oplossing op waarbij je gebruik maakt van call op basis van 11:34
 ## Preparation 6: 'function fun'
 Geef per onderdeel aan welke waarde er in de variabele resultaat zit en van welk
 datatype deze variabele is:
+Plaats de antwoorde in de code.
 
 A.
 ```javascript
