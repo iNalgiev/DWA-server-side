@@ -88,4 +88,6 @@ your files to us, you should commit them to the remote repo:
 
 
 # Links
-[Node.js installation manual](http://goo.gl/19fIOu)
+- [Node.js installation manual](http://goo.gl/19fIOu)
+- [Github GUI installation](http://goo.gl/ZuUZFu)
+
