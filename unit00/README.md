@@ -84,3 +84,8 @@ your files to us, you should commit them to the remote repo:
 
 1. Deploy the folder and its content to server3
 1. Copy the url to test.html from a browser and paste it in the form below.  
+
+
+
+# Links
+[Node.js installation manual](http://goo.gl/19fIOu)
